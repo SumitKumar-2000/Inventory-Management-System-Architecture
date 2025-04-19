@@ -96,8 +96,7 @@ All endpoints are documented using Swagger. To view the API docs, visit:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/sagar2535/inventory-management.git
-cd inventory-management
+git clone https://github.com/SumitKumar-2000/Inventory-Management-System-Architecture.git
 npm install
 ```
 
