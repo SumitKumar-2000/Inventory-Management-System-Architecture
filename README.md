@@ -83,7 +83,8 @@ A simple and secure Inventory Management REST API built with **Node.js**, **Expr
 
 All endpoints are documented using Swagger. To view the API docs, visit:
 
-`http://localhost:3000/api-docs`
+`Local: http://localhost:3000/api-docs`
+`Live: https://inventory-management-system-architecture.onrender.com`
 
 ## 🛠️ Tech Stack
 
